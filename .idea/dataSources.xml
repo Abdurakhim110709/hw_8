@@ -29,5 +29,12 @@
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/hw_7.py</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="hw.db" uuid="1db645ec-6ab2-4932-a496-ea096785f4d0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\ASUS\Abdurahim1\hw_7\hw.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
